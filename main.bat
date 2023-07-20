@@ -1,7 +1,7 @@
 @ECHO OFF
  TITLE stop services
 ECHO ---------------------------------------------------
-ECHO Simple batch script to stop services on Windows 11
+ECHO Simple batch script to stop services on Windows
 ECHO Services can be changed with a notepad
 ECHO ---------------------------------------------------
 ECHO SCRIPT MUST BE RUN AS ADMINISTRATOR
